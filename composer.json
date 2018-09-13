@@ -1,0 +1,25 @@
+{
+    "name": "zkc/docrine-yac-cache-driver",
+    "description": "Docrine Yac Cache Driver",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Z.kc",
+            "email": "zkc226@163.com"
+        }
+    ],
+    "require": {
+        "doctrine/cache": "^1.8"
+    },
+    "suggest": {
+        "ext-yac": "yac extension"
+    },
+    "autoload": {
+        "psr-4": {
+            "zkc\\": "src/"
+        }
+    },
+    "require-dev": {
+        "kkguan/ide-helper": "^1.0"
+    }
+}
