@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "doctrine/cache": "^1.8"
+        "doctrine/cache": "*"
     },
     "suggest": {
         "ext-yac": "yac extension"
