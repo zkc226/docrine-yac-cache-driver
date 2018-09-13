@@ -1,5 +1,6 @@
 {
     "name": "zkc/docrine-yac-cache-driver",
+    "version": "0.0.1",
     "description": "Docrine Yac Cache Driver",
     "type": "library",
     "authors": [
